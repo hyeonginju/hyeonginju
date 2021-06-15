@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=HyeongIn%20JU&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Client%20Developer%20with%20React%20Native&descAlignY=51&descAlign=62)
 
-* 👀 I’m interested in JavaScript, React Native, Expo
-* 📫 How to reach me guddls654@gmail.com
+
+* 📫Email guddls654@gmail.com
 
 
 	
@@ -16,4 +15,4 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 	   
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+
