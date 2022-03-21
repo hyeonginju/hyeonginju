@@ -1,5 +1,5 @@
 
-* Hi, I'm HyeoungIn JU
+* Hi,  HyeoungIn JU
 * I'm Client Developer
 * 📫Email guddls654@gmail.com
 
