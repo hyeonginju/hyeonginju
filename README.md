@@ -1,6 +1,6 @@
 
-* Hi,  HyeoungIn JU
-* I'm Client Developer
+* Hi, I'm HyeoungIn JU
+* I'm mobile app Front-End Developer
 * 📫Email guddls654@gmail.com
 
 
