@@ -5,8 +5,6 @@
 
 
 	
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonginju&show_icons=true&theme=tokyonight&hide=issues)
-	
 
 	<h3 >🎇 Main Stack</h3>
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
