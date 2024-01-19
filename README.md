@@ -1,5 +1,5 @@
 
-* Hi🖐 I'm HyeoungIn JU
+* Hi🖐 I'm HyeongIn JU
 * mobile app Front-End Developer
 * 📫Email guddls654@gmail.com
 
