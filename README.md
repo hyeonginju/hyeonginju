@@ -1,6 +1,6 @@
 
 * Hi🖐 I'm HyeongIn JU
-* mobile app Front-End Developer
+* Software Engineer
 * 📫Email guddls654@gmail.com
 
 
